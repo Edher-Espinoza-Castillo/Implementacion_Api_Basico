@@ -2,11 +2,11 @@
  
 # Las URL a emplear son los siguientes:
 
-GET /peoples → recuperara una lista de personas.
-GET /peoples/1 → recupera la información de una persona en específico.
-POST /peoples → Crea una nueva persona
-PUT /peoples/1 → Actualiza el registro con el ID 1
-DELETE /peoples/1 → Elimina el registro con ID 1
+* GET /peoples → recuperara una lista de personas.
+* GET /peoples/1 → recupera la información de una persona en específico.
+* POST /peoples → Crea una nueva persona
+* PUT /peoples/1 → Actualiza el registro con el ID 1
+* DELETE /peoples/1 → Elimina el registro con ID 1
 
 
 
